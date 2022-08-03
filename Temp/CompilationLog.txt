@@ -1,0 +1,24 @@
+# Starting compiling UnityEngine.TestRunner.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6fd01d2c7e2dad841951a53da2f8e074
+# Starting compiling UnityEngine.UI.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a3725dfd3da3d1b46b71ffbabd5d45a2
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e643e8f285041694f822715a304a3f8c
+# Starting compiling Unity.2D.PixelPerfect.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d1689b6f1037f1b46b9401418f0184fd
+# Starting compiling Unity.Timeline.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6668a9832cf68f548954b7be3b47a5f3
+# Starting compiling Unity.TextMeshPro.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8dbb04179eca4344aae28e1765725553
+# Starting compiling Unity.Mathematics.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4ff1b363dab71a146b28e46b268028ed
+# Starting compiling Unity.2D.IK.Runtime.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b14fb11ab6f49eb4cb85d6247c70e58b
+# Starting compiling Unity.2D.Common.Runtime.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-bb529c8ca60596c41b879eb917f0e5df
+# Starting compiling Unity.2D.Animation.Runtime.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4936fe3a287f9f840ab816b290cfed3d
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a56b48cb0b59b8b4e8aad6bc39a55111
+# Starting compiling Assembly-CSharp.dll
+C:\Users\Emil\2020.3.34f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7ac19a6f6ecad254da3d5b4c355718eb

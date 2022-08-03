@@ -1,0 +1,4 @@
+#Thu Aug 04 01:32:31 YEKT 2022
+base.0=C\:\\Users\\Emil\\Documents\\My Games\\Test Task Circle Hunter2D\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
